@@ -1,2 +1,2 @@
-#ECE1000-FINAL-PROJECT
-This is a GitHub for Angelica Romero. I am working on my B.S.E.E. at Tennessee Tech. This is a final project that I contributed to for my Into to Electronics class
+Robotic Arm 
+This GitHub contains all relevant files used during development of our Robotic Arm project for ECE 1000.
